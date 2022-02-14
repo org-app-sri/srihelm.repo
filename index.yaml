@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebappchart:
+  - apiVersion: v2
+    appVersion: "4"
+    created: "2022-02-14T06:52:24.023019982Z"
+    description: A Helm chart for Kubernetes to java web app applicatin
+    digest: 3e1faf9dc6b8850466f3c7b3b43ffe2aa23dd1c7c7a58067597e0226a374818e
+    name: javawebappchart
+    type: application
+    urls:
+    - vhttps://org-app-sri.github.io/srihelm.repo/javawebappchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-14T06:52:24.022089412Z"
